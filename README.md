@@ -1,5 +1,5 @@
 # hello-world
-Step one to becoming a computing genius
+Step one to becoming a computing genius:
 
 Hello fellow programmers,
 
